@@ -6,3 +6,5 @@ select * from smartphones;
 select * from smartphones 
 where brand_name = 'samsung'
 order by brand_name desc limit 5;
+
+select * from smartphones;
