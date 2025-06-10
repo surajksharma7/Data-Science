@@ -103,8 +103,11 @@ select count(distinct(brand_name)) from smartphones;
 
 -- standard deviation of screen size 
 
-select std(screen_size) from  smartphones
+select std(screen_size) from  smartphones;
 
 -- abs , round , ceil, floor,
+
+select abs(price) from smartphones;
+
 
 
