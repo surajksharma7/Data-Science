@@ -1,0 +1,8 @@
+jupyter notebook --generate-config  
+
+which chrome  
+
+nano ~/.jupyter/jupyter_notebook_config.py                                     (base)
+
+-- search for browser in the server app and 
+/usr/bin/google-chrome-stable %s
